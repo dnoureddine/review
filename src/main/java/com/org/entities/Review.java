@@ -10,5 +10,7 @@ public class Review {
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Long idReview;
+	
+	
 
 }
